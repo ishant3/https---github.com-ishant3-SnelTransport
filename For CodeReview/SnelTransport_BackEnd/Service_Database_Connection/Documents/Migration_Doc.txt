@@ -1,5 +1,0 @@
-﻿Enable-Migrations -ContextTypeName EntitiesContext
-
-add-migration 
-
-update-database 
